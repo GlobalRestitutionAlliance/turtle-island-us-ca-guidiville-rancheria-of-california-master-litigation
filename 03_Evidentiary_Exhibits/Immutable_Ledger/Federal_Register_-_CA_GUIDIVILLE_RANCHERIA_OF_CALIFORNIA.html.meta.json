@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+GUIDIVILLE+RANCHERIA+OF+CALIFORNIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+GUIDIVILLE+RANCHERIA+OF+CALIFORNIA",
+  "title": "Federal Register - CA GUIDIVILLE RANCHERIA OF CALIFORNIA",
+  "fetched_at": "2026-11-23T17:55:50.610051Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 198590,
+  "sha256": "5263b94c85d1dfb655e1917ea24dbef66e7b3aa1a840419a3133f514fc525141",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
